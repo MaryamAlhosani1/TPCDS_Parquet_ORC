@@ -1,0 +1,7 @@
+scale_factor,format,observed_ratio,approximate_paper_ratio,difference_pp,reference,directly_matched_configuration
+1,parquet,0.3763500895094181,0.33,4.63500895094181,"Liu et al. (2025), Fig. 10, Snappy, full TPC-DS SF10; visual estimate",False
+1,orc,0.4317452952574191,0.36,7.174529525741913,"Liu et al. (2025), Fig. 10, Snappy, full TPC-DS SF10; visual estimate",False
+2,parquet,0.38069180867392416,0.33,5.069180867392414,"Liu et al. (2025), Fig. 10, Snappy, full TPC-DS SF10; visual estimate",False
+2,orc,0.4345048378645203,0.36,7.4504837864520335,"Liu et al. (2025), Fig. 10, Snappy, full TPC-DS SF10; visual estimate",False
+5,parquet,0.3785237081662346,0.33,4.852370816623458,"Liu et al. (2025), Fig. 10, Snappy, full TPC-DS SF10; visual estimate",False
+5,orc,0.4416367558170586,0.36,8.16367558170586,"Liu et al. (2025), Fig. 10, Snappy, full TPC-DS SF10; visual estimate",False

@@ -1,0 +1,6 @@
+scale_factor,table,parquet_write_sec,orc_write_sec,parquet_read_sec,orc_read_sec
+5,customer,3.64,2.53,0.28,0.22
+5,item,0.92,1.09,0.28,0.18
+5,store,0.21,0.25,0.28,0.15
+5,date_dim,1.02,0.98,0.40,0.31
+5,store_sales,134.17,120.55,0.51,0.33
